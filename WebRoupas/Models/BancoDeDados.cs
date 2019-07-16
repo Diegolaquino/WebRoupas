@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace WebRoupas.Models
 {
     /*
-     Essa class representa o banco de dados     
+     Essa class representa o banco de dados
     */
     public class BancoDeDados : DbContext
     {
